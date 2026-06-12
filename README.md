@@ -104,6 +104,30 @@ Ian Xiaohei Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中�
 
 ![信任桥](examples/images/08-trust-bridge.png)
 
+### 最小回路
+
+![最小回路](examples/images/09-minimum-loop.png)
+
+### 三个来源
+
+![三个来源](examples/images/10-three-sources.png)
+
+### 三种内容工作
+
+![三种内容工作](examples/images/11-three-content-jobs.png)
+
+### 交接复制工具箱
+
+![交接复制工具箱](examples/images/12-handoff-copy-toolbox.png)
+
+### 常见坑
+
+![常见坑](examples/images/13-common-pits.png)
+
+### 系统承重
+
+![系统承重](examples/images/14-system-bearing.png)
+
 这些图片是风格校准样例，不是构图模板。使用时应该从当前文章重新发明隐喻，不要照抄旧案例的物件和构图。
 
 ---
